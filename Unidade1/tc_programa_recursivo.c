@@ -2,7 +2,7 @@
 *
 Instituição: IESB
 Disciplina:  Teoria da Computação (TC)
-Objetivo:    Fornecer conhecimentos e prática em desenvolvimento POO.
+Objetivo:    Fornecer conhecimentos e práticas de paradigmas da TC.
 Professor:   Bruno Miranda [bruno.marcos@iesb.edu.br]
 Data:        Mar2024
 
